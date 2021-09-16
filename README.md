@@ -1,4 +1,4 @@
-# Árvore AVL
+# Árvore Rubro-Negra
 
 Implementação de uma árvore Rubro-Negra(Red-Black tree), feita em linguagem **C**, na disciplina de Estruturas de Dados Avançadas, durante o semestre 2021.1, pelo curso de Ciência da Computação da Universidade Federal do Ceará (Campus Russas).
 
